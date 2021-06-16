@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Main_Menu.unity
+    guid: 2c647d97ec7205547956278e26904adb
+  - enabled: 1
+    path: Assets/Scenes/Instructions.unity
+    guid: 4f7b04891fd6f994b99fdf4946948070
+  - enabled: 1
+    path: Assets/Scenes/Cow_UFO_game.unity
+    guid: 123490f2df208424cbba9777493c85f5
+  - enabled: 1
+    path: Assets/Scenes/Lose_Screen.unity
+    guid: abff2306d4ad1ec4490d39d9cf1543bf
+  - enabled: 1
+    path: Assets/Scenes/Win_Screen.unity
+    guid: 8241776623f13a74d8bc413a7af6c24a

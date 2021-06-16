@@ -1,0 +1,88 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Ground
+  - sky
+  - bossEnd
+  - Wall
+  - Enemy
+  - a_bullet
+  - p_HitBox
+  - boss
+  - inviswall
+  - m_bullet
+  - lWall
+  - enemy_hit_trigger
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Player
+  - background
+  - m_bullet
+  - BossEnd
+  - Boundries
+  - Ground
+  - Enemies
+  - a_bullet
+  - p_hitbox
+  - boss
+  - inviswall
+  - boss_trigger
+  - enemy_hitbox
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: background
+    uniqueID: 1138027777
+    locked: 0
+  - name: mountains
+    uniqueID: 4069397371
+    locked: 0
+  - name: ground
+    uniqueID: 217035997
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: trees
+    uniqueID: 558944549
+    locked: 0
+  - name: nipples
+    uniqueID: 2716844857
+    locked: 0
+  - name: udder
+    uniqueID: 3862844521
+    locked: 0
+  - name: ufo
+    uniqueID: 1340694109
+    locked: 0
+  - name: Bullets
+    uniqueID: 3170241737
+    locked: 0
+  - name: Enemies
+    uniqueID: 2444396627
+    locked: 0
+  - name: tree foreground
+    uniqueID: 1602664367
+    locked: 0
+  - name: UI
+    uniqueID: 3829757891
+    locked: 0
